@@ -59,4 +59,4 @@ Veja [Configuration Reference](https://cli.vuejs.org/config/).
 
 👤 Contribuidor Principal: [losthunter52](https://github.com/losthunter52/)
 
-👤 Contribuidor: [losthunter52](https://github.com/AlexandreJusten/)
+👤 Contribuidor: [AlexandreJusten](https://github.com/AlexandreJusten/)
